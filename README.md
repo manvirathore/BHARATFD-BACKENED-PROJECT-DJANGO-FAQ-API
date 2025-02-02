@@ -245,6 +245,20 @@ python manage.py test
 This will run all the test cases defined in the `tests.py` file and ensure the API endpoints are functioning correctly.
 
 ---
+## Project Screenshots
+
+##User Interface and API Screens
+
+![image alt](https://github.com/manvirathore/BHARATFD-BACKENED-PROJECT-DJANGO-FAQ-API/blob/e17d40e96e8f1349c596ccd5022fc0d5409ddb39/myproject/img1.jpg)
+![image alt](https://github.com/manvirathore/BHARATFD-BACKENED-PROJECT-DJANGO-FAQ-API/blob/e17d40e96e8f1349c596ccd5022fc0d5409ddb39/myproject/img2.jpg)
+![image alt](https://github.com/manvirathore/BHARATFD-BACKENED-PROJECT-DJANGO-FAQ-API/blob/e17d40e96e8f1349c596ccd5022fc0d5409ddb39/myproject/img4.jpg)
+![image alt](https://github.com/manvirathore/BHARATFD-BACKENED-PROJECT-DJANGO-FAQ-API/blob/e17d40e96e8f1349c596ccd5022fc0d5409ddb39/myproject/img5.jpg)
+![image alt](https://github.com/manvirathore/BHARATFD-BACKENED-PROJECT-DJANGO-FAQ-API/blob/e17d40e96e8f1349c596ccd5022fc0d5409ddb39/myproject/img6.jpg)
+![image alt](https://github.com/manvirathore/BHARATFD-BACKENED-PROJECT-DJANGO-FAQ-API/blob/e17d40e96e8f1349c596ccd5022fc0d5409ddb39/myproject/img8.jpg)
+![image alt](https://github.com/manvirathore/BHARATFD-BACKENED-PROJECT-DJANGO-FAQ-API/blob/e17d40e96e8f1349c596ccd5022fc0d5409ddb39/myproject/img9.jpg)
+![image alt](https://github.com/manvirathore/BHARATFD-BACKENED-PROJECT-DJANGO-FAQ-API/blob/e17d40e96e8f1349c596ccd5022fc0d5409ddb39/myproject/img10.jpg)
+![image alt](https://github.com/manvirathore/BHARATFD-BACKENED-PROJECT-DJANGO-FAQ-API/blob/e17d40e96e8f1349c596ccd5022fc0d5409ddb39/myproject/img11.jpg)
+![image alt](https://github.com/manvirathore/BHARATFD-BACKENED-PROJECT-DJANGO-FAQ-API/blob/e17d40e96e8f1349c596ccd5022fc0d5409ddb39/myproject/img12.jpg)
 
 ## Thank You! 🎉
 
